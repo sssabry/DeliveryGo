@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<script src="script.js"></script>
+<html>
+<head>
+    <title>Delivery Fees Calculator</title>
+</head>
+<body>
+    <h1>Welcome to the Delivery Fees Calculator</h1>
+    <p>You are currently inputting details for a new order:</p>
+    <label for="weight">Please enter the weight classification (L for light, M for medium, H for heavy):</label>
+    <input type="text" id="weight"><br>
+    <label for="distance">Please enter the number of minutes needed to deliver:</label>
+    <input type="number" id="distance"><br>
+    <label for="price">Please enter the total paid price (in the format of 0.00):</label>
+    <input type="number" step="0.01" id="price"><br>
+    <button onclick="calculateFees()">Calculate Delivery Fees</button>
+    <div id="result"></div>
+</body>
+</html>
