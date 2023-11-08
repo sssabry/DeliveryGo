@@ -7,7 +7,7 @@ Due to the varying weights, distances and combinations of such factors, they had
 As a result, they reached out to me for a quick solution to act as an extension to their existing point of sale software.
 
 # How does it work?
-The algorithim allows the delivery driver to calculate the fees according to the details of each order. 
+The algorithm allows the delivery driver to calculate the fees according to the details of each order. 
 There's two versions of the solution:
 - one that was deployed in the form of a website for easy, on-the-go calculation (seen in the HTML & JavaScript files included)
-- one that was integreated into the existing point of sale system (actual algorithim is in Java; POS system was in C)
+- one that was integreated into the existing point of sale system (actual algorithm is in Java; POS system was in C)
