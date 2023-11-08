@@ -1,5 +1,5 @@
 # DeliveryGo
-Small program deployed locally as a part of custom local point of sale system for student startup @ Lancaster University
+Small solution deployed locally as a part of custom local point of sale system for student startup @ Lancaster University
 
 # Where did this come from?
 The student startup's main focus was delivery orders from on campus businesses to on campus accomodation. 
